@@ -34,8 +34,7 @@ GitHub.
 
 _PseudoScript-programming-language_
 
-GitHub address: https://github.com/jerryyangboyu/PseudoScript-programming-
-language
+GitHub address: https://github.com/jerryyangboyu/PseudoScript-programming-language
 
 Description: I taught myself the principles of university compilation in high school,
 designed a brand-new programming language by myself, and wrote the front-end
@@ -120,6 +119,7 @@ relatively weak programming foundations understand programming. At the same
 time, I learned the C language robot programming related to arduino, and worked
 with the team members to overcome difficulties.
 
+# 个人简历
 ## 基本信息
 
 杨博宇 Jerry 男
